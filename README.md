@@ -29,11 +29,11 @@ The system processes tracker-generated data to identify movement patterns, analy
 - **Programming Language:** Python
 - **Data Processing:** Pandas, NumPy
 - **Data Visualization:** Matplotlib, Seaborn
-- **Statistical Analysis:** SciPy, if used
+- **Statistical Analysis:** 
 - **Data Source:** Wearable fitness tracker / smartwatch sensor data
 - **Development Environment:** Jupyter Notebook / Google Colab / VS Code
 
-*Update this section to include only the tools and libraries used in your implementation.*
+
 
 ## 📂 Project Structure
 
@@ -43,20 +43,18 @@ Barbell-Exercise-Tracking/
 ├── data/                   # Tracker data or sample datasets
 ├── notebooks/              # Data exploration and experiments
 ├── src/                    # Data processing and analysis scripts
-├── results/                # Charts and analysis outputs
+├──
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
 ```
 
-*Modify the structure to match your actual repository. Avoid uploading private or sensitive personal fitness data.*
 
 ## ⚙️ Installation and Setup
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/akki415/Gym-Tracker.git
 ```
 
 ### 2. Create a Virtual Environment
@@ -106,18 +104,13 @@ The project can examine the following aspects, depending on the data available:
 | Time-Series Trends | Examine changes in sensor measurements |
 | Statistical Comparison | Identify differences between workout conditions |
 
-Actual findings should be documented using results obtained from the collected dataset.
 
 ## 📈 Results and Visualizations
-
-This section can include visualizations such as:
 
 - Sensor measurements over time during a workout.
 - Comparison of repetition frequency between heavy- and light-weight sessions.
 - Movement-pattern comparisons across exercise sessions.
 - Statistical summaries of extracted workout features.
-
-Add your actual graphs, measured results, and observations here after running the analysis.
 
 ## 🔮 Future Improvements
 
